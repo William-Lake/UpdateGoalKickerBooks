@@ -7,8 +7,10 @@ Compiled to an .exe thanks to [Brent Vollebregt](https://github.com/brentvollebr
 
 1. Place the .exe or python file in the directory containing your GoalKicker books.
 2. Run the program
-..* If you're using the .exe, double click it.
-..* If you're using the python file, open a terminal in the directory and run:
+
+If you're using the .exe, double click it.
+
+If you're using the python file, open a terminal in the directory and run:
 ```python
 python UpdateBooks.py
 ```

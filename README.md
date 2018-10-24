@@ -1,5 +1,5 @@
 # UpdateGoalKickerBooks
-A small Python utility program for updating GoalKicker books in a given directory to the most recent version.
+A small Python utility program for updating [GoalKicker books](https://goalkicker.com/) in a given directory to the most recent version.
 
 Compiled to an .exe thanks to [Brent Vollebregt](https://github.com/brentvollebregt)'s awesome [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) project. Thanks Brent!
 

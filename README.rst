@@ -3,19 +3,6 @@ update_goalkicker_books
 =======================
 
 
-.. image:: https://img.shields.io/pypi/v/update_goalkicker_books.svg
-        :target: https://pypi.python.org/pypi/update_goalkicker_books
-
-.. image:: https://img.shields.io/travis/William-Lake/update_goalkicker_books.svg
-        :target: https://travis-ci.org/William-Lake/update_goalkicker_books
-
-.. image:: https://readthedocs.org/projects/update-goalkicker-books/badge/?version=latest
-        :target: https://update-goalkicker-books.readthedocs.io/en/latest/?badge=latest
-        :alt: Documentation Status
-
-
-
-
 A small Python utility program for updating GoalKicker_. books in a given directory to the most recent version.
 
 
